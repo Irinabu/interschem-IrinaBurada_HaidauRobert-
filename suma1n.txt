@@ -1,0 +1,33 @@
+start
+600 120
+2
+input
+600 170
+N
+3
+calcul
+600 230
+I<-1
+4
+calcul
+600 280
+S<-0
+5
+decizie
+600 350
+I>N
+6 7
+output
+500 450
+S
+9
+calcul
+720 450
+S<-S+I
+8
+calcul
+780 330
+I<-I+1
+5
+terminare
+600 550
